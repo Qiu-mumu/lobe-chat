@@ -27,6 +27,12 @@
   "workspace_member_removed_downgrade": "Bạn đã bị xóa khỏi không gian làm việc \"{{workspaceName}}\" vì không gian làm việc đã bị hạ cấp.",
   "workspace_member_removed_downgrade_title": "Đã bị xóa khỏi không gian làm việc",
   "workspace_member_removed_title": "Đã bị xóa khỏi không gian làm việc",
+  "workspace_payment_failed": "Renewal payment for workspace \"{{workspaceName}}\" failed. Please update your payment method to keep the workspace active.",
+  "workspace_payment_failed_title": "Payment failed for {{workspaceName}}",
+  "workspace_payment_method_removed": "A payment method was removed from workspace \"{{workspaceName}}\". Add a card before the next renewal, otherwise the subscription will fail to renew.",
+  "workspace_payment_method_removed_title": "Payment method removed from {{workspaceName}}",
   "workspace_primary_ownership_transferred": "Bạn hiện là chủ sở hữu chính của không gian làm việc \"{{workspaceName}}\". Quyền thanh toán và quyền chính đã được chuyển giao cho bạn.",
-  "workspace_primary_ownership_transferred_title": "Bạn hiện là chủ sở hữu chính của {{workspaceName}}"
+  "workspace_primary_ownership_transferred_title": "Bạn hiện là chủ sở hữu chính của {{workspaceName}}",
+  "workspace_subscription_expired": "The subscription for workspace \"{{workspaceName}}\" has ended. Renew within {{days}} days to restore full access before the workspace is downgraded.",
+  "workspace_subscription_expired_title": "Subscription ended for {{workspaceName}}"
 }

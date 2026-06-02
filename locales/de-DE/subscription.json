@@ -301,6 +301,8 @@
   "plans.plan.starter.title": "Starter",
   "plans.plan.ultimate.desc": "Für Power-User mit komplexen KI-Anforderungen",
   "plans.plan.ultimate.title": "Ultimate",
+  "plans.restoreSubscription": "Restore Subscription",
+  "plans.restoreSubscriptionSuccess": "Subscription has been restored",
   "plans.storage.title": "Datenspeicher",
   "plans.subscribe": "Abonnieren",
   "plans.support.hobby": "Community-Forum",

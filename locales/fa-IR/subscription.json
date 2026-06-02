@@ -301,6 +301,8 @@
   "plans.plan.starter.title": "شروع",
   "plans.plan.ultimate.desc": "برای کاربران پرمصرف با نیاز به گفتگوهای پیچیده هوش مصنوعی",
   "plans.plan.ultimate.title": "نهایی",
+  "plans.restoreSubscription": "Restore Subscription",
+  "plans.restoreSubscriptionSuccess": "Subscription has been restored",
   "plans.storage.title": "ذخیره‌سازی داده",
   "plans.subscribe": "اشتراک",
   "plans.support.hobby": "انجمن کاربران",

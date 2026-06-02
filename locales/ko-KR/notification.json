@@ -27,6 +27,12 @@
   "workspace_member_removed_downgrade": "워크스페이스 \"{{workspaceName}}\"가 다운그레이드되어 제거되었습니다.",
   "workspace_member_removed_downgrade_title": "워크스페이스에서 제거됨",
   "workspace_member_removed_title": "워크스페이스에서 제거됨",
+  "workspace_payment_failed": "Renewal payment for workspace \"{{workspaceName}}\" failed. Please update your payment method to keep the workspace active.",
+  "workspace_payment_failed_title": "Payment failed for {{workspaceName}}",
+  "workspace_payment_method_removed": "A payment method was removed from workspace \"{{workspaceName}}\". Add a card before the next renewal, otherwise the subscription will fail to renew.",
+  "workspace_payment_method_removed_title": "Payment method removed from {{workspaceName}}",
   "workspace_primary_ownership_transferred": "이제 \"{{workspaceName}}\" 워크스페이스의 주요 소유자가 되었습니다. 청구 및 주요 권한이 귀하에게 이전되었습니다.",
-  "workspace_primary_ownership_transferred_title": "이제 {{workspaceName}}의 주요 소유자가 되었습니다"
+  "workspace_primary_ownership_transferred_title": "이제 {{workspaceName}}의 주요 소유자가 되었습니다",
+  "workspace_subscription_expired": "The subscription for workspace \"{{workspaceName}}\" has ended. Renew within {{days}} days to restore full access before the workspace is downgraded.",
+  "workspace_subscription_expired_title": "Subscription ended for {{workspaceName}}"
 }

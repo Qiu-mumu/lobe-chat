@@ -301,6 +301,8 @@
   "plans.plan.starter.title": "Inicial",
   "plans.plan.ultimate.desc": "Para usuarios intensivos que necesitan conversaciones complejas con IA",
   "plans.plan.ultimate.title": "Máximo",
+  "plans.restoreSubscription": "Restore Subscription",
+  "plans.restoreSubscriptionSuccess": "Subscription has been restored",
   "plans.storage.title": "Almacenamiento de Datos",
   "plans.subscribe": "Suscribirse",
   "plans.support.hobby": "Foro Comunitario",
